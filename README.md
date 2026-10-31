@@ -33,6 +33,10 @@ PTOAS/
 
 ```
 
+### A5 能力与编程文档
+
+[A5 文档目录](docs/zh/a5/README.md)集中提供五份文档：交互式能力指南、3510 参考稿、VF 基础、VPTO 能力梳理和 C++ Bridge 示例，包含 VMI 访存、UB 地址重叠分析及自动同步限制。
+
 ---
 
 ## 3. 构建指南 (Build Instructions)
